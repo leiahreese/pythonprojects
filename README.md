@@ -1,6 +1,6 @@
 # pythonprojects
 
-# Welcome to my repository of personal Python projects! This collection showcases various projects that I've developed to enhance my programming skills and explore different aspects of Python. Each project demonstrates unique functionality, from basic scripts to more complex applications. Feel free to browse, review, and contribute.
+Welcome to my repository of personal Python projects! This collection showcases various projects that I've developed to enhance my programming skills and explore different aspects of Python. Each project demonstrates unique functionality, from basic scripts to more complex applications. Feel free to browse, review, and contribute.
 
 ## Getting Started
 
